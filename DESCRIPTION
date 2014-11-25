@@ -1,0 +1,12 @@
+Package: chinaWeather
+Type: Package
+Title: a visualized package for china Weather
+Description: a visualized package for china Weather
+Author: Tiger Liu
+Maintainer: Tiger Liu <pophoo@126.com>
+Version: 0.1
+Depends:
+    R (>= 3.1.2)
+License: GPL-2
+LazyData: true
+Date: 2014-11-25
